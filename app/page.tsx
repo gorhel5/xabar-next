@@ -1,9 +1,9 @@
-import TelegramUserData from "@/components/TelegramUserData/TelegramUserData";
+import PhoneRequest from "@/components/PhoneRequest/PhoneRequest";
 
 export default function Home() {
   return (
     <div>
-      <TelegramUserData />
+      <PhoneRequest />
     </div>
   );
 }
